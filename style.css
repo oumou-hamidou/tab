@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.photo{
+    padding-left: 700px;
+    
+}
+table{
+    text-align: center;
+    width: 100%;
+    
+    
+}
+.H
+{
+    background-color: purple;
+}
+.He
+{
+    background-color: blue;
+}.Li
+{
+    background-color: rgba(0, 255, 255, 0.781);
+}
+.Be
+{
+    background-color: rgb(12, 226, 144);
+}
+.B
+{
+    background-color: rgb(205, 238, 144);
+}    
+.F
+{
+    background-color: khaki;
+}
+.Al
+{
+    background-color: sandybrown;
+}
+.Sc
+{
+    background-color: coral;
+}
+.La
+{
+    background-color: rgb(219, 40, 100);
+}
+.Ac
+{
+    background-color: crimson;
+}
+
+@media screen and (max-width: 500px)
+{
+    
+table{
+    text-align: center;
+    width: 100%;
+    }
+}
